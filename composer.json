@@ -1,7 +1,7 @@
 {
 	"name": "wp-pay-gateways/fortis-bank-ideal-hosted",
-	"description": "Fortis Bank - iDEAL Hosted driver for the WordPress payment processing library.",
-	"keywords": ["wordpress", "wp", "pay", "fortis", "bank", "ideal", "hosted", "gateway", "pronamic"],
+	"description": "[DEPRECATED] Fortis Bank - iDEAL Hosted driver for the WordPress payment processing library.",
+	"keywords": ["deprecated", "wordpress", "wp", "pay", "fortis", "bank", "ideal", "hosted", "gateway", "pronamic"],
 	"homepage": "http://www.wp-pay.org/gateways/fortis-bank-ideal-hosted/",
 	"license": "GPL",
 	"authors": [
